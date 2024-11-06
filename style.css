@@ -1,0 +1,216 @@
+body {
+
+    width: 100vw;
+    overflow-x: hidden;
+}
+
+.nev {
+    background-color: #191A1B;
+    width: 100vw;
+    margin-top: -8px;
+    margin-left: -8px;
+    padding-bottom: 8px;
+    display: flex;
+    align-items: center;
+    height: 60px;
+}
+
+.logo {
+    height: 50px;
+    margin-top: 13px;
+    margin-left: 13px;
+}
+
+.option {
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    margin-left: 120px;
+
+}
+
+.All {
+    color: white;
+    opacity: 1;
+    margin-left: 35px;
+    margin-right: 35px;
+}
+
+.sub {
+    color: white;
+    opacity: 0.6;
+    margin-left: 35px;
+    margin-right: 35px;
+}
+
+.search {
+    display: flex;
+    color: white;
+    margin-left: 150px;
+    font-size: 20px;
+
+}
+
+.Subscribe {
+    background-color: #0095DB;
+    margin-left: 35px;
+    border-radius: 25px;
+    padding: 8px 15px 8px 15px;
+
+}
+
+
+.Signin {
+    background-color: #8DC640;
+    margin-left: 35px;
+    border-radius: 25px;
+    padding: 8px 15px 8px 15px;
+}
+
+.firstimg {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+}
+
+.carector1img {
+    width: 220px;
+    margin-left: 8px;
+    border-radius: 10px;
+}
+
+.carector1 {
+    display: flex;
+    margin-top: 20px;
+
+}
+
+.actor1 {
+    margin-left: 80px;
+    margin-top: 30px;
+    font-size: 20px;
+    height: 390px;
+}
+
+.star {
+    margin-top: -45vh;
+    padding-left: 2vh;
+}
+
+.s12 {
+    border-radius: 8px;
+}
+
+.s1 {
+    display: flex;
+}
+
+.row1 {
+    margin-left: 80px;
+    height: 390px;
+}
+
+.film1 {
+    margin-left: 8px;
+}
+
+.star2 {
+    margin-top: -45vh;
+    padding-left: 1vh;
+}
+
+.row2 {
+    margin-left: 80px;
+    height: 390px;
+}
+
+.s2 {
+    display: flex;
+}
+
+.film2 {
+    margin-left: 8px;
+}
+
+.star3 {
+    margin-top: -45vh;
+    padding-left: 1vh;
+}
+
+.actor2 {
+    margin-left: 80px;
+    height: 390px;
+}
+
+.creator2 {
+    display: flex;
+
+}
+
+.creator21 {
+    margin-left: 8px;
+}
+
+.s22 {
+    border-radius: 8px;
+}
+
+.star4 {
+    margin-top: -45vh;
+    padding-left: 1vh;
+}
+
+.creator3 {
+    display: flex;
+}
+
+.actor3 {
+    height: 390px;
+    margin-left: 80px;
+}
+
+.creator31 {
+    margin-left: 8px;
+}
+
+.s32 {
+    border-radius: 8px;
+}
+
+.star5 {
+    margin-top: -45vh;
+    padding-left: 1vh;
+}
+
+.s3 {
+    display: flex;
+}
+
+.star6 {
+    margin-top: -25vh;
+    margin-left: 1vh;
+}
+
+.row31 {
+    border-radius: 8px;
+    margin-left: 8px;
+}
+
+.row3 {
+    margin-left: 80px;
+    height: 240px;
+}
+
+.s3{
+    display: flex;
+}
+
+.row4{
+    height: 240px;
+    margin-left: 80px;
+}
+.row41{
+    border-radius: 8px;
+    margin-left: 8px;
+}
